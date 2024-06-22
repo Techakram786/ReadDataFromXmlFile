@@ -1,0 +1,1599 @@
+<xml>
+<version>11.2</version>
+<organisation>
+<item>
+<org_code>11</org_code>
+<org_name>Banks</org_name>
+</item>
+<item>
+<org_code>2</org_code>
+<org_name>Central Government</org_name>
+</item>
+<item>
+<org_code>3</org_code>
+<org_name>Central Govt Autonomous/Statutory organisation/body/Society</org_name>
+</item>
+<item>
+<org_code>4</org_code>
+<org_name>Central Govt PSU/Undertaking</org_name>
+</item>
+<item>
+<org_code>8</org_code>
+<org_name>Central Govt University/College/Educational Institutions</org_name>
+</item>
+<item>
+<org_code>1</org_code>
+<org_name>EPFO</org_name>
+</item>
+<item>
+<org_code>10</org_code>
+<org_name>Municipal Corporations/Local Bodies/Authorities</org_name>
+</item>
+<item>
+<org_code>5</org_code>
+<org_name>State Government/UT</org_name>
+</item>
+<item>
+<org_code>6</org_code>
+<org_name>State Govt Autonomous organisation/body</org_name>
+</item>
+<item>
+<org_code>7</org_code>
+<org_name>State Govt PSU</org_name>
+</item>
+<item>
+<org_code>9</org_code>
+<org_name>State University/College/Educational Institutions</org_name>
+</item>
+</organisation>
+<authority>
+<item>
+<org_code>7</org_code>
+<authority_code>AAVINP</authority_code>
+<authority_name>Aavin Ex-gratia Pension and Family Pension - TN</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLAGVB</authority_code>
+<authority_name>Andhra Pradesh Grameena Vikas Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>6</org_code>
+<authority_code>APPCBD</authority_code>
+<authority_name>Andhra Pradesh Pollution Control Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>APPGCL</authority_code>
+<authority_name>Andhra Pradesh Power Generation Corporation</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLAPGB</authority_code>
+<authority_name>Andhra Pragathi Grameena Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>AEEDS</authority_code>
+<authority_name>Atomic Energy Education Society</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>EDUBHU</authority_code>
+<authority_name>Banaras Hindu University</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|/</ppo_valid_char>
+<ppo_valid_length>7|12</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>BWSSBD</authority_code>
+<authority_name>Bangalore Water Supply and Sewerage Board</authority_name>
+<valid_rule>8</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9</ppo_valid_char>
+<ppo_valid_length>8|8</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>BKSTAF</authority_code>
+<authority_name>Banking Staff</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLBRKG</authority_code>
+<authority_name>Baroda Rajasthan Kshetriya Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>BUPGB</authority_code>
+<authority_name>Baroda U.P Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>BHSPHC</authority_code>
+<authority_name>Bihar State Power(Holding) Company Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>MCGMB</authority_code>
+<authority_name>Brihanmumbai Municipal Corporation</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>BISTAN</authority_code>
+<authority_name>Bureau of Indian Standards(BIS)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CALDLB</authority_code>
+<authority_name>Calcutta Dock Labour Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CBSEHQ</authority_code>
+<authority_name>CBSE-HQ</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>CGOV</authority_code>
+<authority_name>Central Government</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>CGOVNP</authority_code>
+<authority_name>Central Government New Pension Scheme (NPS AR)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CPRIN</authority_code>
+<authority_name>Central Power Research Institute</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CSLKB</authority_code>
+<authority_name>Central Silk Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>CMWSSB</authority_code>
+<authority_name>Chennai Metropolitan Water Supply Sewerage Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>8|8</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>TNCPT</authority_code>
+<authority_name>Chennai Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>CSPGCL</authority_code>
+<authority_name>Chhatisgarh State Power Generation Company Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>CSPTCL</authority_code>
+<authority_name>Chhatisgarh State Power Transmission Co. Ltd.</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>CRGB</authority_code>
+<authority_name>Chhattisgarh Rajya Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>4</org_code>
+<authority_code>COALIL</authority_code>
+<authority_name>Coal India Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CMPFO</authority_code>
+<authority_name>Coal Mines Provident Fund Organisation</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CHNPT</authority_code>
+<authority_name>Cochin Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>CUSATK</authority_code>
+<authority_name>Cochin University of Science and Technology</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CCNTDB</authority_code>
+<authority_name>Coconut Development Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>COFFBI</authority_code>
+<authority_name>Coffee Board of India</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>CTNUNV</authority_code>
+<authority_name>Cotton University, Guwahati</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>CSIRES</authority_code>
+<authority_name>Council Of Scientific And Industrial Research</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>8|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLBHGB</authority_code>
+<authority_name>Dakshin Bihar Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>DAMVCO</authority_code>
+<authority_name>Damodar Valley Corporation</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>DNDPT</authority_code>
+<authority_name>Deendayal Port Trust ( Kandla Port Trust)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>DSPS</authority_code>
+<authority_name>Defence</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>DSPSAF</authority_code>
+<authority_name>Defence - Jt.CDA(AF), Subrato Park, Delhi Cantt</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>DSPSAR</authority_code>
+<authority_name>Defence - PCDA (P) Allahabad</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>DSPSNV</authority_code>
+<authority_name>Defence - PCDA(Navy) Mumbai</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>DELJAL</authority_code>
+<authority_name>Delhi Jal Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>EPDCAP</authority_code>
+<authority_name>Eastern Power Distribution Company of AP Ltd.</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>1</org_code>
+<authority_code>EPFO</authority_code>
+<authority_name>EPFO</authority_name>
+<valid_rule>13</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>13|13</ppo_valid_length>
+</item>
+<item>
+<org_code>4</org_code>
+<authority_code>GICRE</authority_code>
+<authority_name>General Insurance Corporation of India</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>GCHNCO</authority_code>
+<authority_name>Greater Chennai Corporation</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z</ppo_valid_char>
+<ppo_valid_length>1|20</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>GPTFA</authority_code>
+<authority_name>Gridco Pension Fund, Odisha</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>6</org_code>
+<authority_code>GMBEPT</authority_code>
+<authority_name>Gujarat Maritime Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9</ppo_valid_char>
+<ppo_valid_length>1|6</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>HDCKPT</authority_code>
+<authority_name>Haldia Dock Complex Kolkata Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>HRVPNL</authority_code>
+<authority_name>Haryana Vidyut Prasaran Nigam Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLHPGB</authority_code>
+<authority_name>Himachal Pradesh Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>HPSEBL</authority_code>
+<authority_name>Himachal Pradesh State Electricity Board Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>HMWSSB</authority_code>
+<authority_name>Hyderabad Metropolitan Water Supply Sewerage Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>IITBO</authority_code>
+<authority_name>IIT Bombay</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>IITKA</authority_code>
+<authority_name>IIT Kanpur</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>IITKGP</authority_code>
+<authority_name>IIT Kharagpur</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>IITMA</authority_code>
+<authority_name>IIT Madras</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>IITDH</authority_code>
+<authority_name>IIT(ISM) Dhanbad</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>CAGIAA</authority_code>
+<authority_name>Indian Audit and Accounts Department (IA and AD)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>ISINTK</authority_code>
+<authority_name>Indian Statistical Institute - Kolkata</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>INSTPR</authority_code>
+<authority_name>Institute for Plasma Research</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>IHMCTN</authority_code>
+<authority_name>Institute of Hotel Management, Hajipur</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>MHJNPT</authority_code>
+<authority_name>Jawaharlal Nehru Port Authority</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>JLNTUH</authority_code>
+<authority_name>Jawaharlal Nehru Technological University HYD</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>JHBVNL</authority_code>
+<authority_name>Jharkhand Bijli Vitran Nigam Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLJRGB</authority_code>
+<authority_name>Jharkhand Rajya Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>JHUSNL</authority_code>
+<authority_name>Jharkhand Urja Sancharan Nigam Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>JHUUNL</authority_code>
+<authority_name>Jharkhand Urja Utpadan Nigam Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>JHUVNL</authority_code>
+<authority_name>Jharkhand Urja Vikas Nigam Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLKAGB</authority_code>
+<authority_name>Karnataka Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>KPCLTD</authority_code>
+<authority_name>Karnataka Power Corporation Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLKVGB</authority_code>
+<authority_name>Karnataka Vikas Grameena Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>KLAGUN</authority_code>
+<authority_name>Kerala Agricultural University (KAU)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>KWA</authority_code>
+<authority_name>Kerala Water Authority</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>6</org_code>
+<authority_code>KMIONC</authority_code>
+<authority_name>Kidwai Memorial Institute of Oncology</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>KPTCLD</authority_code>
+<authority_name>KPTCL and ESCOMs</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|:|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|12</ppo_valid_length>
+</item>
+<item>
+<org_code>4</org_code>
+<authority_code>LICOI</authority_code>
+<authority_name>Life Insurance Corporation of India</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLMPGB</authority_code>
+<authority_name>Madhya Pradesh Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z</ppo_valid_char>
+<ppo_valid_length>10|10</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLMDGB</authority_code>
+<authority_name>Madhyanchal Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>MAAFSU</authority_code>
+<authority_name>Maharashtra Animal and Fishery Sciences University</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z</ppo_valid_char>
+<ppo_valid_length>3|10</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>MGUKL</authority_code>
+<authority_name>Mahatma Gandhi University Kerala</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>MAPKRV</authority_code>
+<authority_name>Mahatma Phule Krishi Vidyapeeth, Rahuri</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>MCAPS</authority_code>
+<authority_name>Ministry of Culture - Artistes Pension Scheme</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>MMGPT</authority_code>
+<authority_name>Mormugao Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>MPMKVV</authority_code>
+<authority_name>MP Madhya Kshetra Vidyut Vitaran Co Ltd</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>MPPKVV</authority_code>
+<authority_name>MP Paschim Kshetra Vidyut Vitaran Co Ltd</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>MHMBPT</authority_code>
+<authority_name>Mumbai Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>MCCCHD</authority_code>
+<authority_name>Municipal Corporation Chandigarh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>NABARD</authority_code>
+<authority_name>NABARD</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>NCSMUS</authority_code>
+<authority_name>National Council of Science Museums</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>NIRDPR</authority_code>
+<authority_name>National Institute of Rural Dev and Panchayati Raj</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>NITRKL</authority_code>
+<authority_name>National Institute of Technology, Rourkela</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z</ppo_valid_char>
+<ppo_valid_length>8|8</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>NITTRC</authority_code>
+<authority_name>National Institute Of Technology, Tiruchirappalli</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>MANAGE</authority_code>
+<authority_name>National Instt of Agricultural Extension Managemen</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z</ppo_valid_char>
+<ppo_valid_length>12|15</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>NVAUGJ</authority_code>
+<authority_name>Navsari Agricultural University</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>NCERT</authority_code>
+<authority_name>NCERT New Delhi</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>NDMCG</authority_code>
+<authority_name>New Delhi Municipal Council</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>NMGPT</authority_code>
+<authority_name>New Mangalore Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>4</org_code>
+<authority_code>NTPCLD</authority_code>
+<authority_name>NTPC Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>OHPCL</authority_code>
+<authority_name>Odisha Hydro Power Corporation Ltd</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>4</org_code>
+<authority_code>ONGCL</authority_code>
+<authority_name>Oil and Natural Gas Corporation Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>PARPT</authority_code>
+<authority_name>Paradip Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>PHRLAB</authority_code>
+<authority_name>Physical Research Laboratory</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>PBMCG</authority_code>
+<authority_name>Port Blair Municipal Council</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>IPPS</authority_code>
+<authority_name>Postal</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLPUGB</authority_code>
+<authority_name>Prathama UP Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>PSAMB</authority_code>
+<authority_name>Punjab State Agriculture Marketing Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>PSPCOR</authority_code>
+<authority_name>Punjab State Power Corporation Ltd</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>IRPS</authority_code>
+<authority_name>Railway</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLRMGB</authority_code>
+<authority_name>Rajasthan Marudhara Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RBIND</authority_code>
+<authority_name>Reserve Bank of India</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>SAKDM</authority_code>
+<authority_name>Sahitya Akademi</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLSGHB</authority_code>
+<authority_name>Sarva Haryana Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLSRGB</authority_code>
+<authority_name>Saurashtra Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>SIDBOI</authority_code>
+<authority_name>Small Industries Development Bank of India</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>APSPDC</authority_code>
+<authority_name>Southern Power Distribution Company of A.P Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>SPCSBD</authority_code>
+<authority_name>Spices Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>4</org_code>
+<authority_code>SPMCIL</authority_code>
+<authority_name>SPMCIL Employees Pension Fund</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>SCTIMS</authority_code>
+<authority_name>Sree Chitra Tirunal Institute for Medical Sciences</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>APGOV</authority_code>
+<authority_name>State Government Andhra Pradesh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>ARGOV</authority_code>
+<authority_name>State Government Arunachal Pradesh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>ASGOV</authority_code>
+<authority_name>State Government Assam</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>BHGOV</authority_code>
+<authority_name>State Government Bihar</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>CHGOV</authority_code>
+<authority_name>State Government Chhattisgarh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>GOGOV</authority_code>
+<authority_name>State Government Goa</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>GUGOV</authority_code>
+<authority_name>State Government Gujarat</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>HRYGOV</authority_code>
+<authority_name>State Government Haryana</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|-|/</ppo_valid_char>
+<ppo_valid_length>2|20</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>HPGOV</authority_code>
+<authority_name>State Government Himachal Pradesh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>JKGOV</authority_code>
+<authority_name>State Government Jammu and Kashmir</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>JHGOV</authority_code>
+<authority_name>State Government Jharkhand</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>KAGOV</authority_code>
+<authority_name>State Government Karnataka</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>KLGOV</authority_code>
+<authority_name>State Government Kerala</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>MPGOV</authority_code>
+<authority_name>State Government Madhya Pradesh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>MAHGOV</authority_code>
+<authority_name>State Government Maharashtra</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>MAGOV</authority_code>
+<authority_name>State Government Manipur</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>MEGOV</authority_code>
+<authority_name>State Government Meghalaya</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>MZGOV</authority_code>
+<authority_name>State Government Mizoram</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>ODGOV</authority_code>
+<authority_name>State Government Odisha</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>PUDGOV</authority_code>
+<authority_name>State Government Puducherry</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>PBGOV</authority_code>
+<authority_name>State Government Punjab</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>RJGOV</authority_code>
+<authority_name>State Government Rajasthan</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>SKGOV</authority_code>
+<authority_name>State Government Sikkim</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>TNGOV</authority_code>
+<authority_name>State Government Tamil Nadu</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>TSGOV</authority_code>
+<authority_name>State Government Telangana</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>TRGOV</authority_code>
+<authority_name>State Government Tripura</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>UPGOV</authority_code>
+<authority_name>State Government Uttar Pradesh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|_|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>UTGOV</authority_code>
+<authority_name>State Government Uttarakhand</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>WBGOV</authority_code>
+<authority_name>State Government West Bengal</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>SPMPKT</authority_code>
+<authority_name>Syama Prasad Mookerjee Port Kolkata</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLTNGB</authority_code>
+<authority_name>Tamil Nadu Grama Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>TNAGUN</authority_code>
+<authority_name>Tamilnadu Agricultural University, Coimbatore</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z</ppo_valid_char>
+<ppo_valid_length>5|6</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLTSGB</authority_code>
+<authority_name>Telangana Grameena Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>2</org_code>
+<authority_code>TLPS</authority_code>
+<authority_name>Telecom</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>TEFLUH</authority_code>
+<authority_name>The English and Foreign Language University</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>12|15</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>TRBK</authority_code>
+<authority_name>The Rubber Board</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>SCCLTD</authority_code>
+<authority_name>The Singareni Collieries Company Limited (SCCL)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>TRTDAP</authority_code>
+<authority_name>Tirumala Tirupati Devasthanams(TTD)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>APTRAN</authority_code>
+<authority_name>Transmission Corporation of Andhra Pradesh Limited</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z</ppo_valid_char>
+<ppo_valid_length>4|16</ppo_valid_length>
+</item>
+<item>
+<org_code>10</org_code>
+<authority_code>ULNMC</authority_code>
+<authority_name>Ulhasnagar Municipal Corporation</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>ANGOV</authority_code>
+<authority_name>Union Territory - Andaman and Nicobar</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>DDGOV</authority_code>
+<authority_name>Union Territory - Daman Diu</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>LDKGOV</authority_code>
+<authority_name>Union Territory - Ladakh</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9</ppo_valid_char>
+<ppo_valid_length>12|12</ppo_valid_length>
+</item>
+<item>
+<org_code>5</org_code>
+<authority_code>LKGOV</authority_code>
+<authority_name>Union Territory - Lakshadweep</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>EDUCLT</authority_code>
+<authority_name>University of Calicut</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>UOHYD</authority_code>
+<authority_name>University of Hyderabad</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>9</org_code>
+<authority_code>EDUKER</authority_code>
+<authority_name>University of Kerala</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLUBGB</authority_code>
+<authority_name>Uttar Bihar Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>7</org_code>
+<authority_code>UHBVNL</authority_code>
+<authority_name>Uttar Haryana Bijli Vitran Nigam Limited (UHBVNL)</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9</ppo_valid_char>
+<ppo_valid_length>2|5</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLUTGB</authority_code>
+<authority_name>Uttarakhand Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>VOCPT</authority_code>
+<authority_name>V O Chidambaranar Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>11</org_code>
+<authority_code>RLVKGB</authority_code>
+<authority_name>Vidharbha Konkan Gramin Bank</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>3</org_code>
+<authority_code>VISPT</authority_code>
+<authority_name>Visakhapatnam Port Trust</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+<item>
+<org_code>8</org_code>
+<authority_code>VNITEC</authority_code>
+<authority_name>Visvesvaraya National Institute of Technology</authority_name>
+<valid_rule>NA</valid_rule>
+<rule_status>O</rule_status>
+<ppo_valid_char>0-9|A-Z|(|)|&|/|,|-</ppo_valid_char>
+<ppo_valid_length>2|30</ppo_valid_length>
+</item>
+</authority>
+</xml>
